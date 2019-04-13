@@ -1,0 +1,129 @@
+html{
+    font-family:sans-serif;
+}
+
+head{
+    display:none;
+}
+    
+    
+    body{
+    padding:30px 20px;
+    width: 46%;
+    margin: 0 auto;
+    text-align:center;
+    font-size:13px;
+    color:#0a0e1f;
+    background-color:#f2f2f2;
+    font-family:"Amiko", "Helvetica", "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック体", YuGothic, "a-otf-midashi-go-mb31-pr6n", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+.section{
+    background-color:white;
+    background-size:cover;
+    padding-bottom:10px;
+
+}
+.wrapper h1{
+    text-align: center;
+    font-size:20px;
+    font-weight: bold;
+  
+}
+
+.title_1{
+color:white;
+font-size:15px;
+background-color: #818692;
+padding:10px 15px;
+text-align:left;
+margin-bottom:0;
+margin-top:25px;
+}
+
+
+img{
+   margin-top:20px;
+    width:65%;
+}
+ .section p{
+padding:0 20px 20px 20px;
+text-align:left;
+line-height:23px;
+ }   
+
+
+  .keyword{
+      font-weight:bold;
+      border-bottom:2px solid #ffcf07;
+  }
+  
+  
+ .section li{
+     text-align:left;
+     line-height:25px;
+ }
+ 
+ .title_2{
+color:white;
+font-size:15px;
+background-color: #818692; 
+text-align:left;
+margin-bottom:0;
+padding:10px 15px;
+ }
+ .p_aka{
+    text-align:left;
+    line-height:18px;
+    margin-top:0px;
+    padding:20px 10px 0 20px;
+ }
+    .p_tag{
+padding-bottom:20px;
+text-align:left;
+line-height:18px;
+padding-left:20px;
+    }
+ 
+  
+    .section_2{
+        background-color:white;
+        background-size:cover;
+    }
+ .footer_btn{
+     background-color:white;
+     border-radius: 20px;
+     color: darkslategray;
+     padding :6px 6px;
+     width:160px;
+    height:25px; 
+    font-size:11px;
+   margin:0 auto;
+   margin-top:10px;
+
+ }
+ .footer-ex{
+    text-decoration: none;
+    color: #818692;
+
+}   
+.footer_logo{
+    display:line-block;
+    padding-top:10px;
+    padding-bottom:10px;
+
+}
+ 
+.footer_company{
+    color: #818692;
+    padding-top:20px;
+}
+
+P{
+    padding:20px;
+    text-align:left;
+}
+
+.footer_company{
+    text-align:center;
+}
