@@ -45,7 +45,7 @@ li a{
   text-decoration: none;
   color:black;
   border-bottom:#eaeaea 1px solid;
-
+  text-align:left;
   
 }
 
@@ -54,7 +54,7 @@ li{
 }
 
 
-.fa{
+.fas{
 font-size:1.5em;
 display: inline-block;
 font-family: FontAwesome;
@@ -63,11 +63,33 @@ font-weight: normal;
 line-height: 1;
 -webkit-font-smoothing: antialiased;
 -moz-osx-font-smoothing: grayscale;
+padding-right:10px;
+color: slategrey;
 }
 
-
-
+.far{
+  font-size:1.5em;
+display: inline-block;
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+line-height: 1;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+padding-right:10px;
+color:slategrey;
 }
 
-
+.fa{
+  font-size:6em;
+display: inline-block;
+font-family: FontAwesome;
+font-style: normal;
+font-weight: normal;
+line-height: 1;
+-webkit-font-smoothing: antialiased;
+-moz-osx-font-smoothing: grayscale;
+padding-right:10px;
+color:slategrey;
+}
 
