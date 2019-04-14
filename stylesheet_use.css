@@ -1,0 +1,138 @@
+*{
+    font-family:sans-serif;
+    box-sizing: border-box;
+    
+}
+
+.section_title{
+    font-size:20px;
+}
+    
+    
+body{
+    padding:30px 20px;
+    text-align:center;
+    color:#0a0e1f;
+
+    background-color:#f2f2f2;
+    font-family:"Amiko", "Helvetica", "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック体", YuGothic, "a-otf-midashi-go-mb31-pr6n", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    }
+
+    .wrapper{
+        width:660px;
+        padding-bottom:50px;
+        margin:0 auto;
+        font-size:11px;
+    }
+    
+ .contents{
+    background-color:white;
+    height:190px;
+    width:100%;
+    box-sizing:border-box;
+    border:1px solid #eaeaea;
+    margin-top:10px;
+    text-align:left;
+    padding:5px 10px;
+   
+ }
+
+
+
+ 
+img{
+  
+    display:inline-block;
+    width:120px;
+    height:130px;
+    vertical-align: bottom;
+
+}
+
+.text{
+    width:78%;
+    display:inline-block;
+  
+    padding-left:2%;
+    text-align:justify;
+    
+}
+.text_alert{
+    font-size:11px;
+}
+   
+.footer_btn{
+    background-color:white;
+    border-radius: 25px;
+    color: darkslategray;
+    padding :8px;
+    width:170px;
+   height:35px; 
+   font-size:11px;
+  margin:0 auto;
+  margin-top:10px;
+  display:block;
+  }
+  
+
+
+.footer-ex{
+    text-decoration: none;
+    color: #818692;
+    vertical-align:middle;
+   
+}
+
+
+.text_link{
+    font-size:14px;
+    color : rgb(0, 0, 238);
+
+}
+
+.contents_third{
+    background-color:white;
+    height:190px;
+    width:100%;
+    box-sizing:border-box;
+    border:1px solid #eaeaea;
+    margin-top:10px;
+    text-align:left;
+    padding:5px 10px;  
+}
+
+.text_third{
+    width:78%;
+    display:inline-block;
+  line-height:30px;
+    padding-left:2%;
+    
+}
+
+.contents_third img{
+    display:inline-block;
+    width:120px;
+    height:130px;
+    vertical-align: bottom;
+
+}
+
+.text_link3{
+    color:rgb(0, 0, 238);
+}
+
+.footer_logo{
+    display:line-block;
+    padding-top:10px;
+    padding-bottom:10px;
+    font-size:12px;
+
+}
+ 
+.footer_company{
+    color: #818692;
+    padding-top:20px;
+    text-align:center;
+    font-size:12px;
+}
+
