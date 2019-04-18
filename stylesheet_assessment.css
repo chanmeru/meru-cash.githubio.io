@@ -8,6 +8,8 @@ body{
     width:100%;
     background-color:#eaeaea;
     font-size:12px;
+    font-family: "Amiko", "Helvetica", "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック体", YuGothic, "a-otf-midashi-go-mb31-pr6n", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+
 }
 
 .wrapper{
