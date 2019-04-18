@@ -1,0 +1,67 @@
+body{
+   background-color:#f2f2f2;
+   font-size:14px;
+   width:100%;
+    text-align:center;
+    font-family: "Amiko", "Helvetica", "游ゴシック Medium", "Yu Gothic Medium", "游ゴシック体", YuGothic, "a-otf-midashi-go-mb31-pr6n", "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+}
+
+main{
+    width:46%;
+    text-align:center;
+    margin:0 auto;
+    background-color:white;
+    display:block;
+    padding:20px;
+    margin-bottom:20px;
+}
+
+h1{
+    text-align:center;
+    font-size:18px;
+    padding:20px;
+    letter-spacing:1.5px;
+
+}
+
+.wrapper img{
+ text-align:center;
+  margin:15px;
+}
+
+.small_alert p{
+    font-size:12px;
+    padding:5px;
+}
+
+.footer_btn a{
+    background-color:#fff;
+    color:#888;
+    text-decoration:none;
+    font-size:12px;
+    display: inline-block;
+    border-radius: 20px;
+    line-height:40px;
+   
+}
+
+.footer_btn{
+    margin:25px;
+    padding:8px;
+    width:210px;
+    height:15px;
+    margin:0 auto;
+    margin-bottom:20px;
+}
+
+.company_logo{
+    color:#888;
+    padding:20px;
+    padding-top:30px;
+}
+
+.company{
+    color:#888;
+    padding:20px;
+
+}
