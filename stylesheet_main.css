@@ -26,6 +26,11 @@ padding-top:20px;
     text-align:center;
     font-size:20px;
     padding-bottom:0;
+    margin-bottom:0;
+}
+
+img{
+  size:cover;
 }
 
 
@@ -46,11 +51,25 @@ li a{
   color:black;
   border-bottom:#eaeaea 1px solid;
   text-align:left;
+  margin-top:0;
   
+}
+
+.section_title > h1{
+  font-size:20px;
+  letter-spacing: 3px;
 }
 
 li{
   text-align:center;
+}
+
+a::after{
+  content:'>';
+  float:right;
+  font-size:23px;
+  padding-right:5px;
+ 
 }
 
 
